@@ -145,13 +145,13 @@ style.firebugResetStyles {
 
 <section class="conterbox mt_pt0">
     <section class="clearfix baner_border">
-          <a href="/index/index"><img src="/../../img/index/new_baner.jpg" alt="万邦家族财富"></a>
+          <a href="/index/index"><img src="/../../img/index/new_baner.jpg" alt="中合万邦"></a>
     </section>
   <section class="mt30 clearfix">          
        
 <section class="right_aside fl ">
     	<div class="user_loging mt5">
-       	   <h2 style="text-align:left;">扫描加入万邦家族财富官方微信</h2>
+       	   <h2 style="text-align:left;">扫描加入中合万邦官方微信</h2>
            <div class="formbox clearfix wx ">
              <img width="132" src="/../../img/index/wx_pic_03.png"> 
              <span class="blank15"> </span>
