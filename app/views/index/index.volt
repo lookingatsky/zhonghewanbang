@@ -655,7 +655,7 @@ $(function(){
 						</div>
 					</div>
 					<div class="user_loging mt5">
-						<h2>扫描加入万邦家族财富官方微信</h2>
+						<h2>扫描加入中合万邦官方微信</h2>
 						<div class="formbox clearfix wx ">
 							<img src="/../../img/index/wx_pic_03.png" width="132"> 
 							<span class="blank15"> </span>
@@ -782,7 +782,7 @@ $(function(){
 						<li><a href="/about/partner" target="_blank">合作伙伴</a></li>
 					</ul>
 					<p>
-						万邦家族财富投资管理（北京）有限公司  版权所有
+						中合万邦投资管理有限公司  版权所有
 						<span>  CopyRight 1999-2023 All Rights Reserved.
 							<span><br> 
 							京<span>ICP</span>备<span>15062970</span>号<span>-1</span>

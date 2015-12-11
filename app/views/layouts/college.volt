@@ -145,13 +145,13 @@ style.firebugResetStyles {
 
 <section class="conterbox mt_pt0">
     <section class="clearfix baner_border">
-          <a href="/index/index"><img src="/../../img/index/new_baner.jpg" alt="万邦家族财富"></a>
+          <a href="/index/index"><img src="/../../img/index/new_baner.jpg" alt="中合万邦"></a>
     </section>
   <section class="mt30 clearfix">          
        
 <section class="right_aside fl ">
     	<div class="user_loging mt5">
-       	   <h2 style="text-align:left;">扫描加入万邦家族财富官方微信</h2>
+       	   <h2 style="text-align:left;">扫描加入中合万邦官方微信</h2>
            <div class="formbox clearfix wx ">
              <img width="132" src="/../../img/index/wx_pic_03.png"> 
              <span class="blank15"> </span>
@@ -214,7 +214,7 @@ style.firebugResetStyles {
                 <li><a href="/about/contact" target="_blank">联系我们</a></li>
 				<li><a href="/about/partner" target="_blank">合作伙伴</a></li>
             </ul>
-			<p>万邦家族财富投资管理（北京）有限公司  版权所有<span>  CopyRight 1999-2023 All Rights Reserved.<span><br> 
+			<p>中合万邦投资管理有限公司  版权所有<span>  CopyRight 1999-2023 All Rights Reserved.<span><br> 
 沪<span>ICP</span>备<span>15062970</span>号<span>-1</span>
 <script src="/../../img/index/stat.php" language="JavaScript"></script><script src="/../../img/index/core.php" charset="utf-8" type="text/javascript"></script>
 </span></span></p>
