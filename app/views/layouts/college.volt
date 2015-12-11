@@ -210,7 +210,7 @@ style.firebugResetStyles {
             	<li><a href="/situation/index?type=X_MTBD" target="_blank">行业新闻</a></li>
                 <li><a href="/college/index" target="_blank"> 理财学堂</a></li>
                 <li><a href="/situation/index" target="_blank">公司动态</a></li>
-                <li><a href="http://old.zhwbchina.com/zxns/" target="_blank">诚聘英才</a></li>
+                <!-- <li><a href="http://old.zhwbchina.com/zxns/" target="_blank">诚聘英才</a></li> -->
                 <li><a href="/about/contact" target="_blank">联系我们</a></li>
 				<li><a href="/about/partner" target="_blank">合作伙伴</a></li>
             </ul>

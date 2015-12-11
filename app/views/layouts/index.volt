@@ -98,10 +98,10 @@
 										</ul>
 									</div>
 								</li> -->
-								<li class="menu_line">|</li>
+								<!-- <li class="menu_line">|</li>
 								<li class="rel job_menu">
 									<a href="http://old.zhwbchina.com/zxns/">诚聘英才</a>
-								</li>
+								</li> -->
 							</ul>
 						</nav>
 					</div>

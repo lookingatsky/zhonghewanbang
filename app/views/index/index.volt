@@ -327,7 +327,7 @@ $(function(){
 			
 			<!-- 右边内容-->
 			<section class="right_aside fr mt15">
-				<div class="user_loging">
+				<!-- <div class="user_loging">
 					<h2 style="font-size:16px;">VIP账户登录</h2>
 					<div class="formbox">
 						<form class="loginForm" action="/session/start" method="post">
@@ -352,11 +352,10 @@ $(function(){
 							</table> 
 							<div class="mt10 btnbox clearfix">
 								<a class="loging_btn_ web_skin ml50 fl">登&nbsp;&nbsp;录</a>
-								<!-- <a href="javascript:void(0)" class="fr mt5 mr18 help_btn">在线帮助</a> -->
 							</div>
 						</form>
 					</div>
-				</div>
+				</div> -->
 
 				<!--  企业文化-->
 <!-- 				<div class="user_loging mt10">
@@ -778,7 +777,7 @@ $(function(){
 						<li><a href="/situation/index?type=X_MTBD" target="_blank">行业新闻</a></li>
 						<li><a href="/college/index" target="_blank">理财学堂</a></li>
 						<li><a href="/situation/index" target="_blank">公司动态</a></li>
-						<li><a href="http://old.zhwbchina.com/zxns/" target="_blank">诚聘英才</a></li>
+						<!-- <li><a href="http://old.zhwbchina.com/zxns/" target="_blank">诚聘英才</a></li> -->
 						<li><a href="/about/contact" target="_blank">联系我们</a></li>
 						<li><a href="/about/partner" target="_blank">合作伙伴</a></li>
 					</ul>
